@@ -46,7 +46,7 @@ void setup()
 }
 
 
-# HTML code
+# HTML code (Note: Particle documentation example code heavily influenced this html code due to lack of knowledge in html)
 <html>
 
 <head>
